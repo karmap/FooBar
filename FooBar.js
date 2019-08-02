@@ -3,6 +3,8 @@
 * "Foo" if is divisible by 3
 * "Bar" if is divisible by 5
 * "FooBar" if is divisible by 3 and 5
+*
+* Restrictoin: no "if" sentences allowed
 */
 function fooBarByNumber(number) {
     let resultObject = {};
