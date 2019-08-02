@@ -4,7 +4,7 @@
 * Restriction: no "if" sentences allowed
 
 run with command:
-'''node FooBar.js'''
+node FooBar.js
 
 Output:
 
